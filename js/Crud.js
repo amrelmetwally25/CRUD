@@ -86,6 +86,7 @@ function setFormForUpdate(i) {
   productDescriptionInput.value = productionContainer[i].description;
 }
 
+
 function updateProduct() {
   addBtn.classList.remove("d-none");
   updateBtn.classList.add("d-none");
