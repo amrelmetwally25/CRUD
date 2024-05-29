@@ -1,0 +1,7 @@
+.form-control:focus{
+    box-shadow: none;
+}
+.products img{
+    height: 150px;
+    object-fit: contain;
+}
